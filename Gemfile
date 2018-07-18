@@ -76,5 +76,3 @@ gem 'twitter-bootstrap-rails'
 
 gem 'bootstrap3-datetimepicker-rails'
 gem 'momentjs-rails'
-
-#hello
