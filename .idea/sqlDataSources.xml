@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="2c59ac3d-4e40-4266-97ad-2fda98022df2" />
+          <option name="name" value="dsd" />
+          <option name="parent" value="2295b446-f3a1-4eae-8af4-b995ec2976cb" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/storage/dsd.ddl" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
