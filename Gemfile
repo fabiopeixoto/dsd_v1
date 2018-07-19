@@ -6,6 +6,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 ruby '2.5.1'
 
 gem 'activerecord'
+gem 'devise'
 
 gem 'nokogiri'
 gem 'rack', '~> 2.0.1'
