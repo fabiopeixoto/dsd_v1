@@ -3,15 +3,12 @@ Rails.application.routes.draw do
 
   get 'profile/profile'
 
-  root 'profile#profile'
-
   get 'welcome/index'
 
   root 'welcome#index'
 
   get 'sessions/new'
 
-  root 'sessions#new'
 
   get    '/login',   to: 'sessions#new'
   post   '/login',   to: 'sessions#create'
